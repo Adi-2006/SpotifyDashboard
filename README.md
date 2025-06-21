@@ -31,6 +31,8 @@ To analyze personal Spotify history using Power BI, uncovering:
 
 ### 🔹 1. Overview Dashboard
 
+![Overview](Page-1.jpg)
+
 Visuals include:
 - Albums Played: **7,379**
 - Artists Played: **3,834**
@@ -68,11 +70,11 @@ Visuals include:
 | 19 Days & 50...        | 144   |
 | Concerning... / For What It's... | 138 |
 
-![Overview](Page-1.jpg)
-
 ---
 
 ### 🔹 2. Listening Pattern Analysis
+
+![Listening Pattern](Page-2.jpg)
 
 #### ⏰ Listening Hours vs Days (Heatmap):
 - Most active hours: **0 AM to 6 AM** and **7 PM to 11 PM**
@@ -84,11 +86,11 @@ Visuals include:
 - Majority of high-frequency tracks fall under **5 minutes**
 - Few tracks are above 15 minutes and rarely played
 
-![Listening Pattern](Page-2.jpg)
-
 ---
 
 ### 🔹 3. Detailed Table View
+
+![Details Table](Page-3.jpg)
 
 A breakdown of **album-wise data** including:
 - Total Albums: **7,902**
@@ -108,8 +110,6 @@ A breakdown of **album-wise data** including:
 | Flaming Pie – Archive Collection | 23            | 2.62                      |
 | Sticky Fingers                    | 22            | 2.20                      |
 | My Love Songs (Expanded)          | 24            | 3.96                      |
-
-![Details Table](Page-3.jpg)
 
 ---
 
